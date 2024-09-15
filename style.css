@@ -1,0 +1,11 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+    background-image: linear-gradient(to right bottom, #d16ba5, #f17281, #f58b5b, #dead42, #b1cd50, #8fd86b, #66e28c, #1ae9b1, #20e3ba, #30ddc1, #43d6c5, #55cfc7);
+}
